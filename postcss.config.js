@@ -11,13 +11,6 @@
     * - Modification    : 
 **/
 export default {
-  theme:{
-    fontFamily:{
-    'body':[Poppins],
-    'sans':[Open , source ],
-
-    },
-  },
   plugins: {
     tailwindcss: {},
     autoprefixer: {},
