@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-url:[('/src/assets/enfant.svg')]
+url:('/src/assets/enfant.svg')
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
